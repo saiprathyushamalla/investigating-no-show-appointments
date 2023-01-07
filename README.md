@@ -1,2 +1,2 @@
-# udacity-data-analyst-nanodegree
-Projects I created for Udacity-data-analyst nanodegree 
+This is a project I created for Udacity-data-analyst nanodegree 
+
